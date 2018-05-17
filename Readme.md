@@ -1,6 +1,6 @@
 # About
 
-This docker image is good for integration in CI workflow to automate google pagespeed testing.  
+This docker image is good for integration in CI workflow to automate [google pagespeed testing](https://developers.google.com/speed/pagespeed/insights/)
 
 It's using npmjs psi package:  
 https://www.npmjs.com/package/psi
