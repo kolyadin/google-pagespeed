@@ -1,3 +1,7 @@
+![alt text](https://img.shields.io/docker/automated/kolyadin/google-pagespeed.svg)
+![alt text](https://img.shields.io/docker/build/kolyadin/google-pagespeed.svg)
+![alt text](https://img.shields.io/docker/pulls/kolyadin/google-pagespeed.svg)
+
 # About
 
 This docker image is good for integration in CI workflow to automate [google pagespeed testing](https://developers.google.com/speed/pagespeed/insights/)
