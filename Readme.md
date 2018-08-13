@@ -6,8 +6,8 @@
 
 This docker image is good for integration in CI workflow to automate [google pagespeed testing](https://developers.google.com/speed/pagespeed/insights/)
 
-It's using npmjs psi package:  
-https://www.npmjs.com/package/psi
+It's using npmjs psi-v4 package:  
+https://github.com/ultimate-guitar/psi-v4
 
 ### How to use
 

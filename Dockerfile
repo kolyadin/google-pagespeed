@@ -2,7 +2,7 @@ FROM node:7-alpine
 
 MAINTAINER aleksey.kolyadin@isobar.ru
 
-RUN npm install --save -g psi
+RUN npm install --global psi-v4
 
 COPY entrypoint.sh /
 RUN chmod +x /entrypoint.sh
