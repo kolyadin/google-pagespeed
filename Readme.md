@@ -9,13 +9,15 @@ This docker image is good for integration in CI workflow to automate [google pag
 It's using npmjs psi-v4 package:  
 https://github.com/ultimate-guitar/psi-v4
 
+With google pagespeed v4 api support
+
 ### How to use
 
 ```bash
 $ docker run -it --rm kolyadin/google-pagespeed --help
 
 Usage
-$ psi <url>
+$ psi-v4 <url>
 
 Options
 --key        Google API Key. By default the free tier is used
